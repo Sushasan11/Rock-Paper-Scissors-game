@@ -23,7 +23,7 @@ while True:
         print('Computer Wins') 
         
 # Asks user is they want to play again
-    play_again = input('Paly Again ? (y/n): ')
+    play_again = input('Play Again ? (y/n): ')
     if play_again != 'y':
         print('Thanks for playing')
         break
